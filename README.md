@@ -1,5 +1,4 @@
 # ofxEpometrope
-　  
 このアドオンはエポメトロープ専用です。センサーから値を取得して、エポメトロープが向いている方向を返します。  
 This addon is dedicated to epometrope. It takes a value from the sensor and returns the direction epometrope is facing.   
 
@@ -20,4 +19,11 @@ Place the downloaded file under "openFrameworks/addons/".
 - <a rel="license" href="https://github.com/apparentVJ/ofxRPiTouch" target="_blank"> ofxRPiTouch </a>
 
 ## Example 
+#### example-test  
+
+#### example-MoviePlayer  
+
+
 ## Setting
+「Setting」内のテキストファイルを編集することでビルドしないで一部の設定を変更することができます。  
+You can change some settings without building by editing the text file in "Settings".
