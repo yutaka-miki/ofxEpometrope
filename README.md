@@ -27,12 +27,10 @@ Place the downloaded file under "openFrameworks/addons/".
 ## Setting
 「Setting」内のテキストファイルを編集することでビルドしないで一部の設定を変更することができます。  
 You can change some settings without building by editing the text file in "Settings".  
-  
 #### Master_or_Slave
 「0」でマスター。「1」でスレーブに切り替えられる。  
 If you enter an input of "0", it will be set as a master  
 and if you enter an input of "1", it will be set as a slave.  
-  
 #### GPIOPhotoReflector
 フォトリフレクタの信号を受け取るピンの番号を変更できます。  
 You can change the number of the pin that receives the signal from the photo-reflector.
