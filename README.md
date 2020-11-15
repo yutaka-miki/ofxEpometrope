@@ -16,8 +16,8 @@ https://youtu.be/bQH5cyU_22U
 ダウンロードしたファイルを「openFrameworks/addons/」下に配置します。
   
 ### (2)依存ライブラリをインストール
-- <a rel="license" href="https://github.com/yutaka-miki/Epometorope" target="_blank"> pigpio </a>
-- <a rel="license" href="https://github.com/yutaka-miki/Epometorope" target="_blank"> ofxRPiTouch </a>
+- <a rel="license" href="http://abyz.me.uk/rpi/pigpio/download.html" target="_blank"> pigpio </a>
+- <a rel="license" href="https://github.com/apparentVJ/ofxRPiTouch" target="_blank"> ofxRPiTouch </a>
 
 ## 注意 -  
  
