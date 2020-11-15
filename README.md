@@ -20,15 +20,17 @@ Place the downloaded file under "openFrameworks/addons/".
 
 ## Example 
 #### example-test  
-
+openFrameworksの3DCGを使った軽量でベーシックな例。  
+A lightweight and basic example using openFrameworks 3DCG.  
+  
 #### example-MoviePlayer  
-
-
+「<a rel="license" href="https://github.com/apparentVJ/ofxRPiTouch" target="_blank">Movie-converter-for-epometrope</a>」で作成した「専用2D映像」を再生するためのツール。  
+A tool to play back "Dedicated 2D video" created by "<a rel="license" href="https://github.com/apparentVJ/ofxRPiTouch" target="_blank">Movie-converter-for-epometrope</a>".  
 ## Setting
 「Setting」内のテキストファイルを編集することでビルドしないで一部の設定を変更することができます。  
 You can change some settings without building by editing the text file in "Settings".  
 #### Master_or_Slave
-「0」でマスター。「1」でスレーブに切り替えられる。  
+「0」でマスター。「1」でスレーブに切り替えられます。  
 If you enter an input of "0", it will be set as a master  
 and if you enter an input of "1", it will be set as a slave.  
 #### GPIOPhotoReflector
