@@ -24,8 +24,8 @@ openFrameworksの3DCGを使った軽量でベーシックな例。
 A lightweight and basic example using openFrameworks 3DCG.  
   
 #### example-MoviePlayer  
-「<a rel="license" href="https://github.com/apparentVJ/ofxRPiTouch" target="_blank">Movie-converter-for-epometrope</a>」で作成した「専用2D映像」を再生するためのツール。  
-A tool to play back "Dedicated 2D video" created by "<a rel="license" href="https://github.com/apparentVJ/ofxRPiTouch" target="_blank">Movie-converter-for-epometrope</a>".  
+「<a rel="license" href="https://github.com/yutaka-miki/Movie-converter-for-epometrope" target="_blank">Movie-converter-for-epometrope</a>」で作成した「専用2D映像」を再生するためのツール。  
+A tool to play back "Dedicated 2D video" created by "<a rel="license" href="https://github.com/yutaka-miki/Movie-converter-for-epometrope" target="_blank">Movie-converter-for-epometrope</a>".  
 ## Setting
 「Setting」内のテキストファイルを編集することでビルドしないで一部の設定を変更することができます。  
 You can change some settings without building by editing the text file in "Settings".  
