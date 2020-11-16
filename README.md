@@ -10,7 +10,7 @@ https://youtu.be/bQH5cyU_22U
 <img src="images/IMG_5433.gif" width="500">  
   
 ## Instaration
-#### (1)ofxEpometropeをインストール - Install ofxEpometrope
+#### (1)ofxEpometrope をインストール - Install ofxEpometrope
 ダウンロードしたファイルを「openFrameworks/addons/」下に配置します。  
 Place the downloaded file under "openFrameworks/addons/".
   
