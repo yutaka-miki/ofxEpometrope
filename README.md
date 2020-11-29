@@ -10,7 +10,7 @@ https://youtu.be/bQH5cyU_22U
 <img src="images/IMG_5433.gif" width="500">  
 
 ## Instaration 1 (Recommendation)
-openFrameworksやofxEpometrope、そのほかエポメトロープに関連するソフトウェアが一式用意されたimgデータをmicroSDカードに直接書き込む方法です。openFrameworksのインストールやその他の設定が煩雑であるため、現状この方法を推奨します。
+openFrameworksやofxEpometrope、そのほかエポメトロープに関連するソフトウェアが一式用意されたimgデータをmicroSDカードに直接書き込む方法です。openFrameworksのインストールやその他の設定が煩雑であるため、現状この方法を推奨しています。
 
 #### (1)microSDカードに書き込むための、imgファイルをダウンロードします。 
   
@@ -19,6 +19,8 @@ openFrameworksやofxEpometrope、そのほかエポメトロープに関連す�
 https://www.balena.io/etcher/
   
 ## Instaration 2
+LinuxでのopenFrameworksの使用経験があり、自身で環境を構築したいという方はこちらの方法でインストールして下さい。
+
 #### (1)ofxEpometrope をインストール - Install ofxEpometrope
 ダウンロードしたファイルを「openFrameworks/addons/」下に配置します。  
 Place the downloaded file under "openFrameworks/addons/".
