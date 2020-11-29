@@ -35,8 +35,8 @@ void ofxEpometrope::setup(){
     GPIOPhotoReflector =  ofToInt(ofBufferFromFile("/home/pi/openFrameworks/addons/ofxEpometrope/setting/GPIOPhotoReflector").getText());
     gpioInitialise();
     gpioSetMode(GPIOPhotoReflector,PI_INPUT);
-    gpioSetMode(20,PI_OUTPUT);//master
-    gpioSetMode(16,PI_INPUT);//slave
+    gpioSetMode(21,PI_OUTPUT);//master
+    gpioSetMode(20,PI_INPUT);//slave
 
     MorS =  ofToInt(ofBufferFromFile("/home/pi/openFrameworks/addons/ofxEpometrope/setting/master_or_slave").getText());
     int dirAdjust = ofToInt(ofBufferFromFile("/home/pi/openFrameworks/addons/ofxEpometrope/setting/dirAdjust").getText()); // min:0  max:DirTotal/2
@@ -62,20 +62,20 @@ void ofxEpometrope::setup(){
 
 void ofxEpometrope::update(){
 
-    // if(gpioRead(16) == 1 ){
-    if(gpioRead(16) == 1 || reset == 1){
+    // if(gpioRead(20) == 1 ){
+    if(gpioRead(20) == 1 || reset == 1){
         if( pReset == 0 ){
             reset = 1;
-            gpioWrite(20,1);//master
+            gpioWrite(21,1);//master
         }else{
             reset = 0;
         }
         pReset = 1; 
     }else{
         // reset = 0;
-        gpioWrite(20,0); //master
+        gpioWrite(21,0); //master
         pReset =  0;   
-    }//if(gpioRead(16) == 1 ||  loadMovie.getCurrentFrame()  >= TotalFrame ){
+    }//if(gpioRead(20) == 1 ||  loadMovie.getCurrentFrame()  >= TotalFrame ){
 
     if(ofGetFrameRate() != 0){ deltaTime1= deltaTime1+ 1/ofGetFrameRate(); }
 
