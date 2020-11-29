@@ -35,8 +35,8 @@ openFrameworksの3DCGを使った軽量でベーシックな例。
 A lightweight and basic example using openFrameworks 3DCG.  
   
 #### example-MoviePlayer  
-「<a rel="license" href="https://github.com/yutaka-miki/Movie-converter-for-epometrope" target="_blank">Movie-converter-for-epometrope</a>」で作成した「専用2D映像」を再生するためのツールです。  
-アドオンに依存せず使用することができますが、動作や設定のしやすさが若干劣るため、現在は「<a rel="license" href="https://github.com/yutaka-miki/epomeOMXPlayer" target="_blank">epomeOMXPlayer</a>」の使用を推奨します。  
+「<a rel="license" href="https://github.com/yutaka-miki/Movie-converter-for-epometrope" target="_blank">Movie-converter-for-epometrope</a>」で作成した「専用2D映像」を再生するためのツール。  
+アドオンに依存せず使用することができますが、動作や設定のしやすさが若干劣るため、現在は「<a rel="license" href="https://github.com/yutaka-miki/epomeOMXPlayer" target="_blank">epomeOMXPlayer</a>」の使用を推奨しています。  
 A tool to play back "Dedicated 2D video" created by "<a rel="license" href="https://github.com/yutaka-miki/Movie-converter-for-epometrope" target="_blank">Movie-converter-for-epometrope</a>".  
 ## Setting
 「Setting」内のテキストファイルを編集することでビルドしないで一部の設定を変更することができます。  
