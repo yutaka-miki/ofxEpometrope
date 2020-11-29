@@ -9,7 +9,9 @@ If you don't know about epometrope, read about it <a rel="license" href="https:/
 https://youtu.be/bQH5cyU_22U   
 <img src="images/IMG_5433.gif" width="500">  
 
-## Instaration 1
+## Instaration 1 (Recommendation)
+<sup>openFrameworksやofxEpometrope、そのほかエポメトロープに関連するソフトウェアが一式用意されたimgデータをmicroSDカードに直接書き込む方法です。openFrameworksのインストールやその他の設定が煩雑であるため、現状この方法を推奨します。</sup>
+
 #### (1)microSDカードに書き込むための、imgファイルをダウンロードします。 
   
 #### (2)imgファイルを「balenaEtcher」でmicroSD（16GB以上）2枚に書き込む。（書き込み用のソフトウェアは別のソフトウェアでも代用可です）
