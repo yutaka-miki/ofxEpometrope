@@ -10,7 +10,7 @@ https://youtu.be/bQH5cyU_22U
 <img src="images/IMG_5433.gif" width="500">  
 
 ## Instaration 1 (Recommendation)
-<sup>openFrameworksやofxEpometrope、そのほかエポメトロープに関連するソフトウェアが一式用意されたimgデータをmicroSDカードに直接書き込む方法です。openFrameworksのインストールやその他の設定が煩雑であるため、現状この方法を推奨します。</sup>
+openFrameworksやofxEpometrope、そのほかエポメトロープに関連するソフトウェアが一式用意されたimgデータをmicroSDカードに直接書き込む方法です。openFrameworksのインストールやその他の設定が煩雑であるため、現状この方法を推奨します。
 
 #### (1)microSDカードに書き込むための、imgファイルをダウンロードします。 
   
