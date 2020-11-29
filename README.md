@@ -8,8 +8,15 @@ If you don't know about epometrope, read about it <a rel="license" href="https:/
   
 https://youtu.be/bQH5cyU_22U   
 <img src="images/IMG_5433.gif" width="500">  
+
+## Instaration 1
+#### (1)microSDカードに書き込むための、imgファイルをダウンロードします。 
   
-## Instaration
+#### (2)imgファイルを「balenaEtcher」でmicroSD（16GB以上）2枚に書き込む。（書き込み用のソフトウェアは別のソフトウェアでも代用可です）
+【参考】balenaEtcherダウンロードサイト
+https://www.balena.io/etcher/
+  
+## Instaration 2
 #### (1)ofxEpometrope をインストール - Install ofxEpometrope
 ダウンロードしたファイルを「openFrameworks/addons/」下に配置します。  
 Place the downloaded file under "openFrameworks/addons/".
